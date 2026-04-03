@@ -23,12 +23,14 @@
       "order": 1,
       "title_hr": "LJEŠNJACI • Berba",
       "title_en": "HAZELNUTS • Harvest"
+    },
+    {
+      "file": "bozicni_paket.jpg",
+      "group": "proba",
+      "sub": "slike",
+      "order": 3
     }
-{
-  "file": "bozicni_paket.jpg",
-  "group": "proba",
-  "sub": "slike",
-  "order": 3
+  ]
 }
 
   ]
