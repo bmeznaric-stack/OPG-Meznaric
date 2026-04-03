@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "file": "med_pcelinjak_01.jpg",
+      "file": "med_pcelinjak_01.png",
       "group": "med",
       "sub": "pcelinjak",
       "order": 1,
@@ -9,7 +9,7 @@
       "title_en": "HONEY • Apiary"
     },
     {
-      "file": "med_vrcanje_01.jpg",
+      "file": "med_vrcanje_01.png",
       "group": "med",
       "sub": "vrcanje",
       "order": 2,
@@ -25,7 +25,7 @@
       "title_en": "HAZELNUTS • Harvest"
     },
     {
-      "file": "bozicni_paket.jpg",
+      "file": "bozicni_paket.png",
       "group": "proba",
       "sub": "slike",
       "order": 3
